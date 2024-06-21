@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on my portfolio website [Portfolio Website](https://github.com/GauravShreenet/portfoliomain)
 
-- 🌱 I’m currently learning node.js now **Node.js**
-
-- 👯 I’m looking to collaborate on Social Media Cloning **Facebook Clone**
-
 - 👨‍💻 All of my projects are available at [https://www.gauravshreenet.com/](https://www.gauravshreenet.com/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** and **Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
